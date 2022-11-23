@@ -5,7 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Studing CUI ATD
+- 🔭 
+From Khyber Agency
+Studing CUI ATD
+     
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
