@@ -2,11 +2,12 @@
 
 ## 🚀 About Me
 
-* 🎓 BS Computer Science Student at COMSATS University Islamabad (Abbottabad Campus)
+* 🎓 Bachelor of Science in Software Engineering (BSSE) Graduate from **COMSATS University Islamabad, Abbottabad Campus**
 * 💻 Passionate about Python, SQL, Data Analysis, and Software Development
-* 📊 Currently learning Data Analytics and Dashboard Development
-* 🌱 Improving my problem-solving skills through coding challenges
-* 🔍 Interested in AI, Databases, and Data Science
+* 📊 Skilled in Data Analytics, Dashboard Development, and Database Management
+* 🌱 Continuously improving my problem-solving and programming skills
+* 🔍 Interested in AI, Databases, Data Science, and Software Engineering
+* 📈 Aspiring Data Analyst and Software Engineer
 
 ## 🛠️ Skills & Technologies
 
@@ -35,4 +36,4 @@
 
 ---
 
-⭐ **Code, Learn, Build, Repeat.**
+⭐ **Transforming data into insights and building software solutions that make an impact.**
