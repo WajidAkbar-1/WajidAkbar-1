@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Wajid Akbar
+![My Picture](profile.png)
 
 ## 🚀 About Me
 
