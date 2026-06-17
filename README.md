@@ -36,4 +36,4 @@
 
 ---
 
-⭐ **Transforming data into insights and building software solutions that make an impact.**
+⭐ Code, Learn, Build, Repeat.
