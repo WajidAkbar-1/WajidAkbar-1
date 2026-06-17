@@ -1,4 +1,4 @@
-![My Picture](profile.png)
+![Profile Picture](Profile.png)
 
 ## 🚀 About Me
 
