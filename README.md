@@ -18,8 +18,11 @@
 
 ### Data Analytics
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Web Development
 
@@ -28,11 +31,10 @@
 
 ## 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-wajidakbar000%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:wajidakbar000@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:wajidakbar000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/wajid-akbar-991870229)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/WajidAkbar-1)
 
-[![GitHub](https://img.shields.io/badge/GitHub-WajidAkbar--1-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/WajidAkbar-1)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wajid_Akbar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/wajid-akbar-991870229)
 
 ---
 
